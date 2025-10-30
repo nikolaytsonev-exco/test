@@ -14,27 +14,34 @@
       <pubDate>Tue, 28 Oct 2025 13:02:09 GMT</pubDate>
 
       <media:thumbnail url="https://images.stringr.com/1a5025adf-1aab-4783-934e-95ce801568dd_00001.jpeg" />
-      
-      <!-- Multiple formats to mimic JWPlayer feed -->
-      <media:content 
-        url="https://d8h082g0locaq.cloudfront.net/videos/a5025adf-1aab-4783-934e-95ce801568dd-360.mp4"
-        type="video/mp4"
-        medium="video"
-        width="640"
-        height="360"
-        duration="54" />
-      <media:content 
-        url="https://d8h082g0locaq.cloudfront.net/videos/a5025adf-1aab-4783-934e-95ce801568dd-720"
-        type="video/mp4"
-        medium="video"
-        width="1280"
-        height="720"
-        duration="54" />
-      <media:content 
-        url="https://d8h082g0locaq.cloudfront.net/videos/a5025adf-1aab-4783-934e-95ce801568dd.m3u8"
-        type="application/vnd.apple.mpegurl"
-        medium="video"
-        duration="54" />
+      <media:title>Dallas 2AM Forecast</media:title>
+      <media:description>Partly sunny skies with temperatures starting near 69°F, rising to 73°F by late morning.</media:description>
+
+      <media:group>
+        <media:content 
+          url="https://d8h082g0locaq.cloudfront.net/videos/a5025adf-1aab-4783-934e-95ce801568dd-360.mp4"
+          type="video/mp4"
+          medium="video"
+          width="640"
+          height="360"
+          duration="54"
+          fileSize="5000000"
+          bitrate="800" />
+        <media:content 
+          url="https://d8h082g0locaq.cloudfront.net/videos/a5025adf-1aab-4783-934e-95ce801568dd-720.mp4"
+          type="video/mp4"
+          medium="video"
+          width="1280"
+          height="720"
+          duration="54"
+          fileSize="10000000"
+          bitrate="1500" />
+        <media:content 
+          url="https://d8h082g0locaq.cloudfront.net/videos/a5025adf-1aab-4783-934e-95ce801568dd.m3u8"
+          type="application/vnd.apple.mpegurl"
+          medium="video"
+          duration="54" />
+      </media:group>
     </item>
 
     <item>
@@ -45,26 +52,34 @@
       <pubDate>Tue, 28 Oct 2025 12:02:45 GMT</pubDate>
 
       <media:thumbnail url="https://images.stringr.com/1bef595ec-7baa-4ff7-b971-448f92c16da0_00001.jpeg" />
-      
-      <media:content 
-        url="https://d8h082g0locaq.cloudfront.net/videos/bef595ec-7baa-4ff7-b971-448f92c16da0-360.mp4"
-        type="video/mp4"
-        medium="video"
-        width="640"
-        height="360"
-        duration="62" />
-      <media:content 
-        url="https://d8h082g0locaq.cloudfront.net/videos/bef595ec-7baa-4ff7-b971-448f92c16da0-720"
-        type="video/mp4"
-        medium="video"
-        width="1280"
-        height="720"
-        duration="62" />
-      <media:content 
-        url="https://d8h082g0locaq.cloudfront.net/videos/bef595ec-7baa-4ff7-b971-448f92c16da0.m3u8"
-        type="application/vnd.apple.mpegurl"
-        medium="video"
-        duration="62" />
+      <media:title>Dallas 1AM Forecast</media:title>
+      <media:description>Mostly sunny with northwest winds up to 25 mph.</media:description>
+
+      <media:group>
+        <media:content 
+          url="https://d8h082g0locaq.cloudfront.net/videos/bef595ec-7baa-4ff7-b971-448f92c16da0-360.mp4"
+          type="video/mp4"
+          medium="video"
+          width="640"
+          height="360"
+          duration="62"
+          fileSize="6000000"
+          bitrate="900" />
+        <media:content 
+          url="https://d8h082g0locaq.cloudfront.net/videos/bef595ec-7baa-4ff7-b971-448f92c16da0-720.mp4"
+          type="video/mp4"
+          medium="video"
+          width="1280"
+          height="720"
+          duration="62"
+          fileSize="12000000"
+          bitrate="1600" />
+        <media:content 
+          url="https://d8h082g0locaq.cloudfront.net/videos/bef595ec-7baa-4ff7-b971-448f92c16da0.m3u8"
+          type="application/vnd.apple.mpegurl"
+          medium="video"
+          duration="62" />
+      </media:group>
     </item>
 
   </channel>
