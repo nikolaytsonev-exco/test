@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Dallas Morning News - Weather Feed</title>
+    <link>https://www.stringr.com/home</link>
+    <description>Latest weather forecast videos for Dallas, TX</description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 28 Oct 2025 20:44:52 GMT</lastBuildDate>
+
+    <item>
+      <title>Dallas, TX - Tue Oct 28 2025 02:00 AM Forecast</title>
+      <description>Partly sunny skies with temperatures starting near 69°F, rising to 73°F by late morning.</description>
+      <link>https://www.stringr.com/home?videoId=6900bec2d99d05455830d534&amp;clipId=6900bec2d99d05455830d53f</link>
+      <guid isPermaLink="false">6900bec2d99d05455830d53f</guid>
+      <pubDate>Tue, 28 Oct 2025 13:02:09 GMT</pubDate>
+
+      <media:thumbnail url="https://images.stringr.com/1a5025adf-1aab-4783-934e-95ce801568dd_00001.jpeg" />
+      
+      <!-- Multiple formats to mimic JWPlayer feed -->
+      <media:content 
+        url="https://d8h082g0locaq.cloudfront.net/videos/a5025adf-1aab-4783-934e-95ce801568dd-360.mp4"
+        type="video/mp4"
+        medium="video"
+        width="640"
+        height="360"
+        duration="54" />
+      <media:content 
+        url="https://d8h082g0locaq.cloudfront.net/videos/a5025adf-1aab-4783-934e-95ce801568dd-720"
+        type="video/mp4"
+        medium="video"
+        width="1280"
+        height="720"
+        duration="54" />
+      <media:content 
+        url="https://d8h082g0locaq.cloudfront.net/videos/a5025adf-1aab-4783-934e-95ce801568dd.m3u8"
+        type="application/vnd.apple.mpegurl"
+        medium="video"
+        duration="54" />
+    </item>
+
+    <item>
+      <title>Dallas, TX - Tue Oct 28 2025 01:00 AM Forecast</title>
+      <description>Mostly sunny conditions continue with temperatures steady at 70°F, northwest winds increasing to 25 mph.</description>
+      <link>https://www.stringr.com/home?videoId=6900b0d7817882454ac40277&amp;clipId=6900b0d7817882454ac40283</link>
+      <guid isPermaLink="false">6900b0d7817882454ac40283</guid>
+      <pubDate>Tue, 28 Oct 2025 12:02:45 GMT</pubDate>
+
+      <media:thumbnail url="https://images.stringr.com/1bef595ec-7baa-4ff7-b971-448f92c16da0_00001.jpeg" />
+      
+      <media:content 
+        url="https://d8h082g0locaq.cloudfront.net/videos/bef595ec-7baa-4ff7-b971-448f92c16da0-360.mp4"
+        type="video/mp4"
+        medium="video"
+        width="640"
+        height="360"
+        duration="62" />
+      <media:content 
+        url="https://d8h082g0locaq.cloudfront.net/videos/bef595ec-7baa-4ff7-b971-448f92c16da0-720"
+        type="video/mp4"
+        medium="video"
+        width="1280"
+        height="720"
+        duration="62" />
+      <media:content 
+        url="https://d8h082g0locaq.cloudfront.net/videos/bef595ec-7baa-4ff7-b971-448f92c16da0.m3u8"
+        type="application/vnd.apple.mpegurl"
+        medium="video"
+        duration="62" />
+    </item>
+
+  </channel>
+</rss>
